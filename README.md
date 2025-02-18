@@ -20,19 +20,22 @@ This repository contains the Python code for a Flask application that serves sys
 ## Usage Instructions
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Deepanshu21coder/Morphle-Lab.git
    
 2. Navigate to the project directory:
+   ```
    bash
-   cd your-repository
+   cd your-repository```
    
 3. Install dependencies:
-   bash
-   pip install flask
+  ```
+bash
+   pip install flask ```
    
 4. Run the application:
-   bash
-   python app.py
+  ```
+bash
+   python app.py```
    
 5. Access the application in your browser at:
    
@@ -56,7 +59,7 @@ Due to a network error in GitHub Codespaces, we were unable to deploy and test t
 The /htop endpoint will display output similar to this:
 
 
-Name: sample_name  
+Name: Deepanshu  
 User: codespace  
 Server Time (IST): 2025-02-18 17:07:27  
 TOP output:  
