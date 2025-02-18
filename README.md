@@ -23,19 +23,17 @@ This repository contains the Python code for a Flask application that serves sys
    git clone https://github.com/Deepanshu21coder/Morphle-Lab.git
    
 2. Navigate to the project directory:
-   ```
-   bash
-   cd your-repository```
+   
+   cd Morphle-Lab
    
 3. Install dependencies:
-  ```
-bash
-   pip install flask ```
+
+   pip install flask
+   pip install pytz
    
-4. Run the application:
-  ```
-bash
-   python app.py```
+5. Run the application:
+   
+   python app.py
    
 5. Access the application in your browser at:
    
